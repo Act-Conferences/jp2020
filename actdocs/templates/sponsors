@@ -14,7 +14,7 @@ BLOCK isponsor;
 END;
 
 WRAPPER isponsor
-   img = 'img/logoFPH_mini.png'
+   img = 'logoFPH_mini.png'
    name = "Fondation Charles Léopold Mayer pour le Progrès de l’Homme"
    url = 'http://www.fph.ch';
 END;
