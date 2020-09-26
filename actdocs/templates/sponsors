@@ -14,20 +14,9 @@ BLOCK isponsor;
 END;
 
 WRAPPER isponsor
-   img = 'logo/renater.svg'
-   name = "Renater"
-   url = 'http://www.renater.fr';
+   img = 'img/logoFPH_mini.png'
+   name = "Fondation Charles Léopold Mayer pour le Progrès de l’Homme"
+   url = 'http://www.fph.ch';
 END;
 
-WRAPPER isponsor
-   img = 'logo/worteks.svg'
-   name = "Worteks"
-   url = 'http://www.worteks.com';
-END;
-
-WRAPPER isponsor
-   img = 'logo/xstra.svg'
-   name = "X/Stra"
-   url = 'http://xstra.unistra.fr';
-END;
 %]</center>
